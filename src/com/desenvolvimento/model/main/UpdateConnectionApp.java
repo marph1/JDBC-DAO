@@ -1,8 +1,6 @@
 package com.desenvolvimento.model.main;
 
 import com.desenvolvimento.model.db.DB;
-import com.desenvolvimento.model.db.DBException;
-import com.desenvolvimento.model.db.DBIntegrityException;
 
 import java.sql.*;
 
